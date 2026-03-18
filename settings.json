@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "deepsteinsmp.aternos.me:28181",
+    "port": 28181,
     "version": "",
     "try-creative": false
   },
